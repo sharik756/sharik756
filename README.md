@@ -6,7 +6,20 @@
 - 🌱  I’m currently learning Data Science and Analytics. 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals:Give impact to society 
-- ⚡ Fun fact: I love reading books, GYM and self improvement 
+- ⚡ Fun fact: I love reading books, GYM and self improvement
+- ### Connect with me:
+
+
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+
 
 ### Languages and Tools:
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
