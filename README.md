@@ -1,6 +1,5 @@
 # Hi there, I'm Sharik Chaudhary 👋 
 
-![Profile Banner](./img/profile-banner.png)
 
 ## I'm a Man, Friend, and Knowledge Explorer!!!
 
