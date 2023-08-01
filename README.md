@@ -10,14 +10,15 @@
 - ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==#gh-dark-mode-only)
+
 
 
 
