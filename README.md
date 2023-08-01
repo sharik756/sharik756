@@ -8,12 +8,13 @@
 - 🥅 2023 Goals:Give impact to society 
 - ⚡ Fun fact: I love reading books, GYM and self improvement
 - ### Connect with me:
+
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![LinkedIn Light](./img/linkedin-light.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-light-mode-only)
-[![LinkedIn Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram Light](./img/instagram-light.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==#gh-light-mode-only)
-[![Instagram Dark](./img/instagram-dark.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==#gh-dark-mode-only)
+
 
 
 
