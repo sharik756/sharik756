@@ -3,7 +3,7 @@
 
 ## I'm a Man, Friend, and Knowledge Explorer!!!
 
-- 🔭 Currently, I'm working on my projects: [Spotify and YouTube Analysis](https://github.com/sharik756/spotify-youtube-analysis)!
+- 🔭 Currently, I'm working on my project: [Spotify and YouTube Project](https://github.com/sharik756/Spotify-and-YouTube-Project)!
 - 🌱 I’m currently learning Data Science, Machine Learning, and Artificial Intelligence.
 - 👯 I’m looking to collaborate with other data enthusiasts and content creators.
 - 🥅 2023 Goals: Make a positive impact on society through data-driven solutions.
@@ -36,7 +36,7 @@ An end-to-end e-commerce platform analysis using Jupyter, Pandas, NumPy, Matplot
 #### [COVID-19 Live Data Analysis](https://github.com/sharik756/COVID-19-Live-Data-Analysis)
 A data analysis project that fetches live COVID-19 data from reliable sources, processes it, and presents insightful visualizations to track the spread of the virus globally and regionally. This project uses Python, Pandas, and Matplotlib for data processing and visualization.
 
-#### [Spotify and YouTube Analysis](https://github.com/sharik756/spotify-youtube-analysis)
+#### [Spotify and YouTube Project](https://github.com/sharik756/Spotify-and-YouTube-Project)
 An exploratory analysis of Spotify and YouTube data to gain insights into music preferences and trends. This project involves data collection using APIs, data cleaning, and visualization to understand user behavior and music popularity.
 An exploratory analysis of Spotify and YouTube data using Jupyter, Pandas, NumPy, Matplotlib, Seaborn, and Python. This project involves data collection through APIs, data cleaning, and visualization to understand user behavior, music preferences, and popularity trends on both platforms.
 
