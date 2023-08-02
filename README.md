@@ -33,7 +33,7 @@ I'm an aspiring Data Scientist with a passion for exploring new frontiers in the
 
 #### [E-commerce Project](https://github.com/sharik756/e-commerce-project)
 An end-to-end e-commerce platform analysis using Jupyter, Pandas, NumPy, Matplotlib, Seaborn, and Python. This project enables users to browse products, add them to the cart, and complete the checkout process. It involves data processing, visualization, and statistics to gain insights into customer behavior and optimize revenue.
-#### [COVID-19 Live Data Analysis](https://github.com/sharik756/covid-19-data-analysis)
+#### [COVID-19 Live Data Analysis](https://github.com/sharik756/COVID-19-Live-Data-Analysis)
 A data analysis project that fetches live COVID-19 data from reliable sources, processes it, and presents insightful visualizations to track the spread of the virus globally and regionally. This project uses Python, Pandas, and Matplotlib for data processing and visualization.
 
 #### [Spotify and YouTube Analysis](https://github.com/sharik756/spotify-youtube-analysis)
