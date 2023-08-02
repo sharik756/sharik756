@@ -12,7 +12,7 @@
 ### Connect with me:
 &nbsp;&nbsp;
 [![LinkedIn](./img/linkedin.svg)](https://linkedin.com/in/sharik-chaudhary-8b2a75269)
-[![Instagram](./img/instagram.svg)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==)
+[![Instagram](instagram-symbol.png)](https://instagram.com/sharik_rana20?igshid=MzRlODBiNWFlZA==)
 
 ### About Me:
 I'm an aspiring Data Scientist with a passion for exploring new frontiers in the world of data, machine learning, and artificial intelligence. I recently completed my BBA degree, but my curiosity and drive to learn led me to dive into the world of Data Science and Analytics.
