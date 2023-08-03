@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-- 💬 About Me **I'm an aspiring Data Scientist with a passion for exploring new frontiers in the world of data, machine learning, and artificial intelligence. I recently completed my BBA degree, but my curiosity and drive to learn led me to dive into the world of Data Science and Analytics.**
+- 💬 About Me : **I'm an aspiring Data Scientist with a passion for exploring new frontiers in the world of data, machine learning, and artificial intelligence. I recently completed my BBA degree, but my curiosity and drive to learn led me to dive into the world of Data Science and Analytics.**
 
 - 🔭 Currently, I'm working on my project: [Spotify and YouTube Project](https://github.com/sharik756/Spotify-and-YouTube-Project)!
 - 🌱 I’m currently learning Data Science, Machine Learning, and Artificial Intelligence.
