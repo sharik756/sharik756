@@ -1,10 +1,12 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 
 <h1 align="center">Hi 👋, I'M SHARIK CHAUDHARY</h1>
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
+
 <h3 align="center">A passionate Data Analyst from India</h3>
+
 
 
 - 💬 About Me : **I'm an aspiring Data Scientist with a passion for exploring new frontiers in the world of data, machine learning, and artificial intelligence. I recently completed my BBA degree, but my curiosity and drive to learn led me to dive into the world of Data Science and Analytics.**
